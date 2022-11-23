@@ -12,15 +12,17 @@
     <header>
         <span class="logo-img"><div class="logo"></div></span>
         <div class="header-list">
-            <ul>
-                <a href="#"><li>Inicio</li></a>
-                <a href="#"><li>Series</li></a>
-                <a href="#"><li>Minha lista</li></a>
-            </ul>
+            <nav>
+                <ul>
+                    <a href="#"><li>Inicio</li></a>
+                    <a href="#"><li>Series</li></a>
+                    <a href="#"><li>Minha lista</li></a>
+                </ul>
+            </nav>
         </div>
         <div class="search-box">
-            <input type="text" name="seach-txt" id="seach-txt">
-            <a href="#">
+            <input type="text" class="search-txt" placeholder="Procurar">
+            <a href="#" class="search-btn">
                 <img src="../img/search.png" alt="">
             </a>
         </div>
