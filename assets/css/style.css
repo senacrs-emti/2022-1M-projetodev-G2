@@ -110,26 +110,61 @@ footer{
 }
 .princ_moovie h1{
     font-size: 4em;
-    left: 40vw;
+    left: 10vw;
     position: relative;
-    top: 30vh;
+    top: 20vh;
     width: 60vh;
 }
 .princ_moovie h2{
     font-size: 1.4em;
-    left: 42.5vw;
+    left: 12vw;
     position: relative;
-    top: 32vh;
+    top: 22vh;
     width: 60vh;
 }
-.trailer_bt{
-    height: 10vh;
-    width: 15vw;
-    color: white;
-    background-color: coral;
+.assistir_bt{
+    height: 5vh;
+    width: 8vw;
+    color: black;
+    background-color: white;
+    background-repeat:no-repeat;
     border: none;
-    font-size: 1.15em;
-    left: 44.3vw;
-    top: 35vh;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    border-radius: 6px;
+    font-size: 1.25em;
+    left: 11vw;
+    top: 25vh;
     position: relative;
+    margin-right: 0.5em;
+}
+.fa-solid{
+    color: black;
+}
+.catalago{
+    height: 27em;
+    background-color: orange;
+}
+.catalago span{
+    color: white;
+    font-size: 2em;
+    line-height: 1em;
+    font-weight: 600;
+    margin-left: 3.2vw;
+}
+.carrossel{
+    margin-top: 0.8em;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    left: 3.2vw;
+    right: 0;
+}
+.carrossel .filmes{
+    min-width: 15%;
+}
+.carrossel .filmes img{
+
+   
 }
