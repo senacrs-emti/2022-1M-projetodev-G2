@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="../assets/css/style.css">
 
 <footer>
     <div class="footer-list">
@@ -32,3 +31,5 @@
         </div>
     </div>
 </footer>
+</body>
+</html>
