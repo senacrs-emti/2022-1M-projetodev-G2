@@ -16,11 +16,12 @@
             <nav>
                 <ul>
                     <a href="#"><li>Inicio</li></a>
-                    <a href="#"><li>Series</li></a>
+                    <a href="#"><li>Filmes</li></a>
                     <a href="#"><li>Minha lista</li></a>
                 </ul>
             </nav>
         </div>
+        
         <div class="search-box">
             <input type="text" class="search-txt" placeholder="Procurar">
             <a href="#" class="search-btn">
