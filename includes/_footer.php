@@ -1,4 +1,3 @@
-
 <footer>
     <div class="footer-list">
         <div class="list1">
@@ -31,5 +30,3 @@
         </div>
     </div>
 </footer>
-</body>
-</html>
