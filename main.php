@@ -26,6 +26,10 @@ include_once './includes/_header.php';
             <div class= filmes>
                 <img src="./img/gentegrande.jpg" alt="">
             </div>
+        </div>
+    </div>
+    <div class="catalago">
+        <div class="carrossel">
             <div class= filmes>
                 <img src="./img/gentegrande.jpg" alt="">
             </div>

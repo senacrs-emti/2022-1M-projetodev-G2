@@ -144,7 +144,7 @@ footer{
 }
 .catalago{
     height: 27em;
-    background-color: orange;
+    background-color: #f77d0c;
 }
 .catalago span{
     color: white;
@@ -163,8 +163,4 @@ footer{
 }
 .carrossel .filmes{
     min-width: 15%;
-}
-.carrossel .filmes img{
-
-   
 }
