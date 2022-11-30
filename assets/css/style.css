@@ -165,3 +165,8 @@ footer{
 .carrossel .filmes{
     min-width: 15%;
 }
+body .video{
+    height: 85%;
+    width: 200vh;
+    border: none;
+}
