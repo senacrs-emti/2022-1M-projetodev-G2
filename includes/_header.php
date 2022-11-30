@@ -21,6 +21,7 @@
                 </ul>
             </nav>
         </div>
+        
         <div class="search-box">
             <input type="text" class="search-txt" placeholder="Procurar">
             <a href="#" class="search-btn">
