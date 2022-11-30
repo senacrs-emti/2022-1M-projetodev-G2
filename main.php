@@ -6,10 +6,12 @@ include_once './includes/_header.php';
         <video autoplay autobuffer muted loop>
             <source src="./img/gentegrandetrailer.mp4" type="video/mp4">
         </video>
-        <h1 class="Title_start">Spider-Man</h1>
-        <h2>Coming soon on Senacflix</h2>
-        <button class="assistir_bt"><i class="fa-solid fa-play"></i>  Assitir</button>
-        <button class="assistir_bt"><i class="fa-solid fa-plus"></i>  Minha lista</button>
+        <div class="conteudo">
+            <h1 class="Title_start">Spider-Man</h1>
+            <h2>Coming soon on Senacflix</h2>
+            <button class="assistir_bt"><i class="fa-solid fa-play"></i>  Assitir</button>
+            <button class="assistir_bt"><i class="fa-solid fa-plus"></i>  Minha lista</button>
+        </div>
     </div>
     <div class="catalago">
         <span>Recomendados</span>

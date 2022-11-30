@@ -115,13 +115,14 @@ footer{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-.princ_moovie h2{
+
+.princ_moovie .conteudo h2{
     font-size: 1.4em;
+    margin-right: 15em;
     left: 12vw;
     position: relative;
     top: 22vh;
     width: 60vh;
-    
 }
 .assistir_bt{
     height: 5vh;
@@ -139,7 +140,6 @@ footer{
     top: 25vh;
     position: relative;
     margin-right: 0.5em;
-   
 }
 .fa-solid{
     color: black;
@@ -165,9 +165,4 @@ footer{
 }
 .carrossel .filmes{
     min-width: 15%;
-}
-body .video{
-    height: 85%;
-    width: 200vh;
-    border: none;
 }
