@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+.pgn{
+    width: 100%;
+    height: 120%;
+    background: rgb(255,140,0);
+    background: linear-gradient(133deg, rgba(255,140,0,1) 0%, rgba(255,140,0,1) 12%, rgba(0,58,123,1) 74%);
+    padding-top: 2em;
+    display: flex;
+    justify-content: center;
+}
+.login{
+    height: 49em;
+    width: 34em;
+    border-radius: 3em;
+    border: 2px black solid;
+    background-color: white;
+}
+.imagem1{
+    height: 3.5em;
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5em;
+}
+.forms{
+    width: 85%;
+    height: 70%;
+    margin-top: 0.5em;
+    margin-left: 2.5em;
+}
+.forms h2{
+    font-size: 3.6em;
+    text-align: center;
+    margin-bottom: 0.7em;
+}
+.forms h3{
+    font-size: 1em;
+}
+.forms input[type="text"]{
+    height: 3.5em;
+    width: 97%;
+    font-size: 0.9em;
+    padding-left: 1em;
+}
+.forms input[type="password"]{
+    height: 3.5em;
+    width: 97%;
+    font-size: 0.9em;
+    padding-left: 1em;
+}
+.nome{
+    margin-top: 1.5em;
+
+}
+#txtUser{
+    border: 1px black solid;
+    border-radius: 2em;
+}
+#txtEmail{
+    border: 1px black solid;
+    border-radius: 2em;
+}
+.senha{
+    border: 1px black solid;
+    border-radius: 2em;
+}
+.nome button{
+    height: 2em;
+    width: 9em;
+    background-color: transparent;
+    border: none;
+    margin-left: -1em;
+}
+#subBotao{
+    margin-block-start: 3em;
+    padding-block: none;
+    font-size: 1.5em;
+    color: rgb(0, 0, 0);
+    height: 2.5em;
+    width: 8em;
+    border: none;
+    border-radius: 2em;
+    background-color: rgb(255, 122, 28);
+}
+#subBotao:hover{
+    background-color: rgb(225, 118, 42);
+}
+.line{
+    width: 90%;
+    margin-left: 1.3em;
+}
+.login p{
+    margin-top: 2em;
+    margin-left: 5.6em;
+    font-size: 1.2em;
+}
+.img{
+    height: 6em;
+    width: 12.9em;
+    position: relative;
+    left: 25%;
+    bottom: 2%;
+}
+.img2{
+    height: 3em;
+    width: 3em;
+    position: relative;
+    bottom: 5%;
+    left: 10%;
+}

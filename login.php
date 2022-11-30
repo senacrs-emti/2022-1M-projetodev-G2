@@ -25,10 +25,6 @@
                     <h3>Password</h3>
                     <label for="pasSenha"></label>
                     <input class="senha" type="password" id="senha" name="senha" required placeholder="Enter password">
-                    <button onclick="myFunction()">Show Password</button>
-                </div>
-                <div class="options">
-                    <a href="#">forget password?</a>
                 </div>
                     <center><input class="botao" type="submit" id="subBotao" name="subBotao" value="Sign in ➜"></center>
                 </div>
