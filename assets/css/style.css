@@ -10,11 +10,11 @@ header{
     background-color: #f77d0c;
 }
 .logo_header{
-    height: 13vh;
+    height: 15vh;
     width: auto;
     float: left;
     position: relative;
-    bottom: 0.4vh;
+    bottom: 0.8vh;
 }
 .Title_start{
     height: 20vh;
