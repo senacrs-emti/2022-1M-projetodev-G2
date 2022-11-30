@@ -9,12 +9,20 @@ header{
     min-height: 80px;
     background-color: #f77d0c;
 }
-.logo-img .logo{
-    width: 200px;
-    height: 40px;
-    margin: 20px 10px;
-    background: #fff;
+.logo_header{
+    height: 13vh;
+    width: auto;
     float: left;
+    position: relative;
+    bottom: 0.4vh;
+}
+.Title_start{
+    height: 20vh;
+    width: 50vw;
+    font-size: 4em;
+    position: relative;
+    top: 30vh;
+    right: 2.3vw;
 }
 .header-list nav ul{
     display: flex;
@@ -107,13 +115,6 @@ footer{
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
-}
-.princ_moovie h1{
-    font-size: 4em;
-    left: 10vw;
-    position: relative;
-    top: 20vh;
-    width: 60vh;
 }
 .princ_moovie h2{
     font-size: 1.4em;

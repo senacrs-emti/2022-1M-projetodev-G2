@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <span class="logo-img"><div class="logo"></div></span>
+    <a href="#"><img src="./img/Logo.png" alt="Logo" class="logo_header"></a>
         <div class="header-list">
             <nav>
                 <ul>
