@@ -170,3 +170,119 @@ body .video{
     width: 200vh;
     border: none;
 }
+.pgn{
+    background: rgb(255,140,0);
+    background: linear-gradient(130deg, rgba(255,140,0,1) 0%, rgba(255,140,0,1) 12%, rgba(0,58,123,1) 74%);
+    width: 100%;
+    height: 100%;
+    padding-top: 5em;
+    display: flex;
+    justify-content: center;
+}
+.login{
+    height: 40em;
+    width: 34em;
+    background-color: white;
+    border-radius: 0.2em;
+    position: relative;
+    bottom: 5vh;
+    border-radius: 3em;
+}
+.imagem1{
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+}
+.forms{
+    width: 85%;
+    height: 70%;
+    margin-top: 0.5em;
+    margin-left: 2.5em;
+}
+.forms h2{
+    font-size: 3.6em;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 0.4em;
+}
+.forms h4{
+    font-size: 1.5em;
+    color: rgb(87, 87, 87);
+    text-align: center;
+}
+.forms h3{
+    font-size: 1em;
+    color: rgb(146, 146, 146);
+}
+.forms input[type="text"]{
+    height: 3.5em;
+    width: 97%;
+    font-size: 0.9em;
+    padding-left: 1em;
+    background-color:rgb(231, 230, 230);
+}
+.forms input[type="password"]{
+    height: 3.5em;
+    width: 97%;
+    font-size: 0.9em;
+    padding-left: 1em;
+    background-color:rgb(231, 230, 230);
+}
+.nome{
+    margin-top: 1.5em;
+}
+#name{
+    background-image: url("imagem/Person-icon2.png");
+    background-position-x: 97% ;
+    background-position-y: center;
+    background-size: 1.2em;
+    background-repeat: no-repeat;
+    border: none;
+    color: black;
+}
+.senha{
+    background-image: url("imagem/eye_icon.png");
+    background-position-x: 97%;
+    background-position-y: center;
+    background-size: 1.5em;
+    background-repeat: no-repeat;
+    border: none;
+    color: black;
+}
+.nome button{
+    height: 2em;
+    width: 9em;
+    background-color: transparent;
+    border: none;
+    margin-left: -1em;
+}
+#subBotao{
+    margin-block-start: 3em;
+    font-size: 1.2em;
+    height: 2.8em;
+    width: 10em;
+    color: white;
+    background-color: rgb(96, 96, 255);
+    border: none;
+    border-radius: 2px;
+}
+.options{
+    width: 100%;
+    height: 2em;
+    margin-top: 1em;
+}
+.options p{
+    color: rgb(48, 48, 48);
+    max-width: 8em;
+    float: left;
+}
+.options input[type="checkbox"]{
+    float: left;
+    height: 1em;
+    width: 1em;
+    margin-top: 0.4em;
+}
+.options a{
+    float: right;
+}
