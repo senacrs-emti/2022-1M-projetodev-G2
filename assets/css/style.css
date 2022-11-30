@@ -175,6 +175,9 @@ footer{
     position: absolute;
     left: 3.2vw;
     right: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
 }
 .carrossel .filmes{
     min-width: 15%;

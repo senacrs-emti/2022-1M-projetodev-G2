@@ -3,7 +3,7 @@ include_once './includes/_header.php';
 ?>
 <main>
     <div class="princ_moovie">
-        <video autoplay autobuffer muted loop>
+        <video autoplay autobuffer muted loop id="mainVideo">
             <source src="./img/gentegrandetrailer.mp4" type="video/mp4">
         </video>
         <h1 class="Title_start">Spider-Man</h1>
