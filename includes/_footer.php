@@ -23,7 +23,7 @@
         </div>
         <div class="list4">
             <ul>
-                <a href="https://www.instagram.com/senacrs/"><li>Instagram</li></a>
+                <a href="https://www.instagram.com/senacdistritocriativo/"><li>Instagram</li></a>
                 <a href="https://twitter.com/senacrs"><li>Twitter</li></a>
                 <a href="https://www.youtube.com/senacrsoficial"><li>Youtube</li></a>
             </ul>
