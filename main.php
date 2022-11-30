@@ -21,7 +21,7 @@ include_once './includes/_header.php';
                 <img src="./img/gentegrande.jpg" alt="">
             </div>
             <div class= filmes>
-                <img src="./img/gentegrande.jpg" alt="">
+               <img src="./img/gentegrande.jpg" alt="">
             </div>
             <div class= filmes>
                 <img src="./img/gentegrande.jpg" alt="">
