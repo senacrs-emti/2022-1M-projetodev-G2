@@ -118,10 +118,11 @@ footer{
 .princ_moovie{
     width: 100%;
     height: 100vh;
-    background-image: url('homemaranha2.jpeg');
-    background-position: center;
+    background-image: url('../../img/capa.png');
     background-repeat: no-repeat;
+    background-position: top;
     background-size: 100%;
+    background-position-y: 0.04vh;
 }
 .princ_moovie h1{
     font-size: 3.8em;
@@ -161,7 +162,7 @@ footer{
     color: black;
 }
 .catalago{
-    height: 27em;
+    height: 29em;
     background-color: #003a7b;
 }
 .catalago span{
@@ -185,8 +186,11 @@ footer{
 .carrossel .filmes{
     min-width: 15%;
 }
-.carrossel .filmes img{
-    
+.title{
+    position: relative;
+    top: 1vh;
+    left: 2vw;
+    color: white;
 }
 body .video{
     height: 85%;
@@ -339,4 +343,7 @@ body .video{
     margin-top: 1%;
     margin-left: 14%;
     margin-bottom: 5%;
+}
+.filmes{
+    margin-top: 1vh;
 }
