@@ -91,6 +91,7 @@ header{
 footer{
     width: 100%;
     min-height: 250px;
+    margin: auto;
     background-color: #f77d0c;
 }
 .footer-list{
@@ -120,6 +121,7 @@ footer{
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
+    background-image: url(../../img/homem\ aranha.jpg);
 }
 .princ_moovie .conteudo h2{
 
@@ -177,7 +179,9 @@ footer{
     position: absolute;
     left: 3.2vw;
     right: 0;
-    
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
 }
 .carrossel .filmes{
     min-width: 15%;
@@ -295,4 +299,45 @@ body .video{
 }
 .options a{
     float: right;
+}
+.top-vid h3{
+    color: gray;
+    padding-top: 50px;
+    font-size: 15px;
+    margin-left: 15%;
+}
+.top-vid h1{
+    color: black;
+    font-size: 38px;
+    margin-top: 10px;
+    margin-left: 15%;
+}
+.top-vid h2{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 15%;
+}
+.back-bottom{
+    display: inline-flex;
+    gap: 2%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-left: 14.5%;
+}
+.back-bottom img{
+    height: 45px;
+}
+.back-bottom a{
+    text-decoration: none;
+    color: black;
+}
+.back-bottom h3{
+    margin-top: 25%;
+    margin-left: 25%;
+}
+.media{
+    margin-top: 1%;
+    margin-left: 24%;
+    margin-bottom: 5%;
 }
