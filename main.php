@@ -12,38 +12,38 @@ include_once './includes/_header.php';
         <h1 class="title">Produções</h1>
         <div class="carrossel">
             <div class= filmes>
-                <a href="#"><img src="./img/MicrosoftTeams-image.png" alt="homen aranha" height="350em" width="230em"></a>
+                <a href="#"><img src="./img/MicrosoftTeams-image.png" alt="homen aranha" height="360em" width="240em"></a>
             </div>
             <div class= filmes>
-                <a href="#"><img src="./img/MicrosoftTeams-image (1).png" alt="filme" height="350em" width="230em"></a>
+                <a href="#"><img src="./img/MicrosoftTeams-image (1).png" alt="filme" height="360em" width="240em"></a>
             </div>
             <div class= filmes>
-                <a href="#"><img src="./img/MicrosoftTeams-image (2).png" alt="filme" height="350em" width="230m"></a>
+                <a href="#"><img src="./img/MicrosoftTeams-image (2).png" alt="filme" height="360em" width="240m"></a>
             </div>
             <div class= filmes>
-                <a href="#"><img src="./img/MicrosoftTeams-image (3).png" alt="filme" height="350em" width="230em"></a>
+                <a href="#"><img src="./img/MicrosoftTeams-image (3).png" alt="filme" height="360em" width="240em"></a>
             </div>
             <div class= filmes>
-                <a href="#"><img src="./img/MicrosoftTeams-image (4).png" alt="filme" height="350em" width="230em"></a>
+                <a href="#"><img src="./img/MicrosoftTeams-image (4).png" alt="filme" height="360em" width="240em"></a>
             </div>
         </div>
     </div>
     <div class="catalago">
         <div class="carrossel">
              <div class= filmes>
-                <a href="#"><img src="./img/MicrosoftTeams-image (11).png" alt="filme" height="350em" width="230em"></a>
+                <a href="#"><img src="./img/MicrosoftTeams-image (11).png" alt="filme" height="360em" width="240em"></a>
             </div>
             <div class= "filmes">
-                <a href="#"><img src="./img/MicrosoftTeams-image (10).png" alt="filme" height="350em" width="230em"></a>
+                <a href="#"><img src="./img/MicrosoftTeams-image (10).png" alt="filme" height="360em" width="240em"></a>
             </div>
             <div class= filmes>
-                <a href="#"><img src="./img/MicrosoftTeams-image (13).png" alt="filme" height="350em" width="230em"></a>
+                <a href="#"><img src="./img/MicrosoftTeams-image (13).png" alt="filme" height="360em" width="240em"></a>
             </div>
             <div class= filmes>
-                <a href="#"><img src="./img/MicrosoftTeams-image (14).png" alt="filme" height="350em" width="230em"></a>
+                <a href="#"><img src="./img/MicrosoftTeams-image (14).png" alt="filme" height="360em" width="240em"></a>
             </div>
             <div class= filmes>
-                <a href="#"><img src="./img/MicrosoftTeams-image (8).png" alt="filme" height="350em" width="230em"></a>
+                <a href="#"><img src="./img/MicrosoftTeams-image (8).png" alt="filme" height="360em" width="240em"></a>
             </div>
         </div>
     </div>

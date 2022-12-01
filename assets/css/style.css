@@ -185,7 +185,7 @@ footer{
     display: flex;
     overflow: hidden;
     position: absolute;
-    left: 3.2vw;
+    left: 5.5vw;
     right: 0;
     display: flex;
     flex-direction: row;
@@ -210,7 +210,7 @@ body .video{
     background: rgb(255,140,0);
     background: linear-gradient(130deg, rgba(255,140,0,1) 0%, rgba(255,140,0,1) 12%, rgba(0,58,123,1) 74%);
     width: 100%;
-    height: 89vh;
+    height: 100vh;
     padding-top: 5em;
     display: flex;
     justify-content: center;
