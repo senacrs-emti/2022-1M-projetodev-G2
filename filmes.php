@@ -39,6 +39,36 @@ include_once './includes/_header.php';
                 <a href="#"><img src="./img/MicrosoftTeams-image (8).png" alt="filme" height="360em" width="240em"></a>
             </div>
         </div>
+        <h1 class="h1">Genero</h1>
+        <div id="carrossel">
+            <div>
+                <a href="#"><img src="./img/MicrosoftTeams-image (11).png" alt="filme" height="360em" width="240em"></a>
+            </div>
+            <div >
+                <a href="#"><img src="./img/MicrosoftTeams-image (10).png" alt="filme" height="360em" width="240em"></a>
+            </div>
+            <div>
+                <a href="#"><img src="./img/MicrosoftTeams-image (13).png" alt="filme" height="360em" width="240em"></a>
+            </div>
+            <div>
+                <a href="#"><img src="./img/MicrosoftTeams-image (14).png" alt="filme" height="360em" width="240em"></a>
+            </div>
+            <div>
+                <a href="#"><img src="./img/MicrosoftTeams-image (8).png" alt="filme" height="360em" width="240em"></a>
+            </div>
+        </div>
+        <h1 class="h1">Recomendados</h1>
+        <div id="carrossel">
+            <div>
+                <a href="#"><img src="./img/MicrosoftTeams-image (6).png" alt="filme" height="360em" width="240em"></a>
+            </div>
+            <div >
+                <a href="#"><img src="./img/MicrosoftTeams-image (10).png" alt="filme" height="360em" width="240em"></a>
+            </div>
+            <div>
+                <a href="#"><img src="./img/MicrosoftTeams-image (13).png" alt="filme" height="360em" width="240em"></a>
+            </div>
+        </div>
     </div>
 </main>
 <?php 
