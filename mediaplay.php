@@ -1,7 +1,6 @@
 <?php 
 include_once './includes/_header.php';
 ?>
-
 <main>
     <body>
         <div class="mediaplay">
@@ -11,18 +10,17 @@ include_once './includes/_header.php';
                 <h2>Ano - 2022</h2>
             </span>
             <span class="back-bottom">
-                <img src="" alt="">
-                <h3>Voltar</h3>
+                <a href="main.php"><img src="./img/seta.png" alt=""></a>
+                <a href="main.php"><h3>Voltar</h3></a>
             </span>
             <div class="media">
-                <video controls loop>
+                <video controls loop width="1000px" height="600px">
                     <source scr="" type="">
                 </video>
             </div>
         </div>
     </body>
 </main>
-
 <?php 
     include_once './includes/_footer.php';
 ?>

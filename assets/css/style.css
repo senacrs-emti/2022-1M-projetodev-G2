@@ -91,6 +91,7 @@ header{
 footer{
     width: 100%;
     min-height: 250px;
+    margin: auto;
     background-color: #f77d0c;
 }
 .footer-list{
@@ -117,42 +118,44 @@ footer{
 .princ_moovie{
     width: 100%;
     height: 100vh;
+    background-image: url('homemaranha2.jpeg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
 }
 .princ_moovie h1{
-    font-size: 4em;
-    left: 10vw;
+    font-size: 3.8em;
+    left: 0.01vw;
     position: relative;
-    top: 20vh;
+    top: 34vh;
     width: 60vh;
+    color: white;
 }
 .princ_moovie h2{
     font-size: 1.4em;
-    left: 12vw;
+    margin-right: 15em;
+    left: 12.5vw;
     position: relative;
     top: 22vh;
     width: 60vh;
-    
+    color: white;
 }
 .assistir_bt{
     height: 5vh;
     width: 8vw;
     color: black;
     background-color: white;
-    background-repeat:no-repeat;
+    background-repeat: no-repeat;
     border: none;
     cursor:pointer;
     overflow: hidden;
     outline:none;
     border-radius: 6px;
     font-size: 1.25em;
-    left: 11vw;
+    left: 11.5vw;
     top: 25vh;
     position: relative;
     margin-right: 0.5em;
-   
 }
 .fa-solid{
     color: black;
@@ -175,6 +178,9 @@ footer{
     position: absolute;
     left: 3.2vw;
     right: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
 }
 .carrossel .filmes{
     min-width: 15%;
@@ -293,4 +299,44 @@ body .video{
 .options a{
     float: right;
 }
-
+.top-vid h3{
+    color: gray;
+    padding-top: 50px;
+    font-size: 15px;
+    margin-left: 15%;
+}
+.top-vid h1{
+    color: black;
+    font-size: 38px;
+    margin-top: 10px;
+    margin-left: 15%;
+}
+.top-vid h2{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 15%;
+}
+.back-bottom{
+    display: inline-flex;
+    gap: 2%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-left: 14.5%;
+}
+.back-bottom img{
+    height: 45px;
+}
+.back-bottom a{
+    text-decoration: none;
+    color: black;
+}
+.back-bottom h3{
+    margin-top: 25%;
+    margin-left: 25%;
+}
+.media{
+    margin-top: 1%;
+    margin-left: 24%;
+    margin-bottom: 5%;
+}
