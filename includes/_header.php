@@ -29,4 +29,5 @@
                 <img src="./img/search.png" alt="">
             </a>
         </div>
+        <i class="fa-solid fa-circle-user"></i>
     </header>
