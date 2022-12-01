@@ -15,7 +15,7 @@ include_once './includes/_header.php';
             </span>
             <div class="media">
                 <video controls loop width="1400px" height="800px">
-                    <source scr="https://www.youtube.com/watch?v=iw26tjJd4Kk" type="video/mp4">
+                    <source src="./img/banana.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
