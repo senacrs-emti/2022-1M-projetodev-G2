@@ -12,38 +12,38 @@ include_once './includes/_header.php';
         <span>Recomendados</span>
         <div class="carrossel">
             <div class= filmes>
-                <img src="./img/gentegrande.jpg" alt="">
+                <a><img src="./img/MicrosoftTeams-image.png" alt="homen aranha"></a>
             </div>
             <div class= filmes>
-                <img src="./img/gentegrande.jpg" alt="">
+                <a><img src="./img/MicrosoftTeams-image.png" alt="homen aranha"></a>
             </div>
             <div class= filmes>
-               <img src="./img/gentegrande.jpg" alt="">
+                <a><img src="./img/MicrosoftTeams-image.png" alt="homen aranha"></a>
             </div>
             <div class= filmes>
-                <img src="./img/gentegrande.jpg" alt="">
+                <a><img src="./img/MicrosoftTeams-image.png" alt="homen aranha"></a>
             </div>
             <div class= filmes>
-                <img src="./img/gentegrande.jpg" alt="">
+                <a><img src="./img/MicrosoftTeams-image.png" alt="homen aranha"></a>
             </div>
         </div>
     </div>
     <div class="catalago">
         <div class="carrossel">
-            <div class= filmes>
-                <img src="./img/gentegrande.jpg" alt="">
+             <div class= filmes>
+                <a><img src="./img/MicrosoftTeams-image.png" alt="homen aranha"></a>
             </div>
             <div class= filmes>
-                <img src="./img/gentegrande.jpg" alt="">
+                <a><img src="./img/MicrosoftTeams-image.png" alt="homen aranha"></a>
             </div>
             <div class= filmes>
-                <img src="./img/gentegrande.jpg" alt="">
+                <a><img src="./img/MicrosoftTeams-image.png" alt="homen aranha"></a>
             </div>
             <div class= filmes>
-                <img src="./img/gentegrande.jpg" alt="">
+                <a><img src="./img/MicrosoftTeams-image.png" alt="homen aranha"></a>
             </div>
             <div class= filmes>
-                <img src="./img/gentegrande.jpg" alt="">
+                <a><img src="./img/MicrosoftTeams-image.png" alt="homen aranha"></a>
             </div>
         </div>
     </div>
