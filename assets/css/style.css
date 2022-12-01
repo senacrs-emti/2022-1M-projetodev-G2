@@ -22,6 +22,7 @@ header{
     position: relative;
     top: 30vh;
     right: 2.3vw;
+    margin: none;
 }
 .logo-img .logo{
     width: 200px;
@@ -35,6 +36,7 @@ header{
     flex-direction: row;
     padding: 28px 20px;
     gap: 2%;
+    margin-left: -20px;
 }
 .header-list nav ul a{
     text-decoration: none;
@@ -126,19 +128,23 @@ footer{
 }
 .princ_moovie h1{
     font-size: 3em;
-    position: relative;
-    top: 35vh;
-    width: 60vh;
+    position: absolute;
+    width: 20vh;
     color: white;
+    height: 3vw;
+    right: 72vw;
+    top: 43vh;
 }
 .princ_moovie h2{
     font-size: 1.4em;
-    margin-right: 15em;
-    left: 14.3vw;
-    position: relative;
-    top: 22vh;
-    width: 60vh;
+    position: absolute;
+    width: 37vh;
+    height: 1vw;
     color: white;
+    margin: none;
+    left: 17vw;
+    top: 48vh;
+   
 }
 .assistir_bt{
     height: 5vh;
@@ -152,8 +158,8 @@ footer{
     outline:none;
     border-radius: 6px;
     font-size: 1.25em;
-    left: 11.5vw;
-    top: 25vh;
+    left: 9vw;
+    top: 45vh;
     position: relative;
     margin-right: 0.5em;
 }
