@@ -56,11 +56,11 @@
     margin-top: 1.5em;
 
 }
-#txtUser{
+#nome{
     border: 1px black solid;
     border-radius: 2em;
 }
-#txtEmail{
+#email{
     border: 1px black solid;
     border-radius: 2em;
 }
