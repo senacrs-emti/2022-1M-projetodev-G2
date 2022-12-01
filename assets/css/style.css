@@ -355,9 +355,29 @@ body .video{
 }
 .filmes{
     margin-top: 1vh;
-    margin-left: ;
 }
 .fa-circle-user{
     color: white;
     float: right;
+}
+#carrossel{
+    width: 100%;
+    padding-bottom: 2.2em;
+    display: flex;
+    overflow: hidden;
+    left: 5.5vw;
+    right: 0;
+    flex-direction: row;
+    gap: 5.4%;
+}
+#catalago{
+    height: 100%;
+    padding-left: 7.5%;
+    background-color: #003a7b;
+}
+.h1{
+    color: white;
+    font-weight: bold;
+    padding-top: 9vh;
+    margin-bottom: 3vh;
 }
