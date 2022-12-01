@@ -187,6 +187,7 @@ footer{
     display: flex;
     flex-direction: row;
     gap: 5%;
+    margin-left: -3vw;
 }
 .carrossel .filmes{
     min-width: 15%;
