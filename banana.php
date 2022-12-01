@@ -14,7 +14,7 @@ include_once './includes/_header.php';
                 <a href="main.php"><h3>Voltar</h3></a>
             </span>
             <div class="media">
-                <video controls loop width="1400px" height="800px">
+                <video controls loop width="880px" height="500px">
                     <source src="./img/banana.mp4" type="video/mp4">
                 </video>
             </div>
