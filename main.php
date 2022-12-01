@@ -3,12 +3,11 @@ include_once './includes/_header.php';
 ?>
 <main>
     <div class="princ_moovie">
-        <div class="conteudo">
             <h1 class="Title_start">Spider-Man</h1>
             <h2>Coming soon on Senacflix</h2>
             <button class="assistir_bt"><i class="fa-solid fa-play"></i>  Assistir</button>
             <button class="assistir_bt"><i class="fa-solid fa-plus"></i>  Minha lista</button>
-        </div>
+    </div>
     <div class="catalago">
         <span>Recomendados</span>
         <div class="carrossel">
