@@ -125,10 +125,9 @@ footer{
     background-position-y: 0.04vh;
 }
 .princ_moovie h1{
-    font-size: 3.8em;
-    left: 2.5vw;
+    font-size: 3em;
     position: relative;
-    top: 34vh;
+    top: 35vh;
     width: 60vh;
     color: white;
 }
