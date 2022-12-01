@@ -3,13 +3,16 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+body{
+    overflow-x: hidden;
+}
 header{
     width: 100%;
     min-height: 80px;
     background-color: #f77d0c;
 }
 .logo_header{
-    height: 13vh;
+    height: 17vh;
     width: auto;
     float: left;
     position: relative;
@@ -132,7 +135,7 @@ footer{
     width: 20vh;
     color: white;
     height: 3vw;
-    right: 72vw;
+    right: 69.5vw;
     top: 43vh;
 }
 .princ_moovie h2{
@@ -142,13 +145,13 @@ footer{
     height: 1vw;
     color: white;
     margin: none;
-    left: 17vw;
-    top: 48vh;
+    left: 18.3vw;
+    top: 52vh;
    
 }
 .assistir_bt{
-    height: 5vh;
-    width: 8vw;
+    height: 7vh;
+    width: 11vw;
     color: black;
     background-color: white;
     background-repeat: no-repeat;
@@ -158,7 +161,7 @@ footer{
     outline:none;
     border-radius: 6px;
     font-size: 1.25em;
-    left: 9vw;
+    left: 0.5vw;
     top: 45vh;
     position: relative;
     margin-right: 0.5em;
@@ -347,7 +350,7 @@ body .video{
 }
 .media{
     margin-top: 1%;
-    margin-left: 14%;
+    margin-left: 18.5%;
     margin-bottom: 5%;
 }
 .filmes{
