@@ -29,5 +29,5 @@
                 <img src="./img/search.png" alt="">
             </a>
         </div>
-        <i class="fa-solid fa-circle-user"></i>
+        <a href="login.php"><i class="fa-solid fa-circle-user"></i></a>
     </header>
