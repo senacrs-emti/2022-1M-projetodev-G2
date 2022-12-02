@@ -11,7 +11,7 @@ include_once './includes/_header.php';
             </span>
             <div class="synopsis">
                 <h2>Sinopse</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lacinia elit. Donec facilisis nec dolor nec mollis. Aliquam eget tempus tellus. Mauris nec arcu blandit, euismod diam id, pretium tortor. Ut ut urna at nisi dictum semper a at urna. In eleifend mattis est, non elementum elit ornare a. Proin sit amet laoreet mi.</p>
+                <p>Zeca, depois de anos trabalhando no mesmo lugar, decide procurar algo novo e busca um emprego que possa cuidar de idosos, mas o que ele não sabe, é que quem ele irá cuidar, pode ser misterioso e até mesmo perigoso.</p>
             </div>
             <span class="back-bottom">
                 <a href="main.php"><img src="./img/seta.png" alt=""></a>

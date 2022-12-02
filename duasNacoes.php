@@ -11,7 +11,7 @@ include_once './includes/_header.php';
             </span>
             <div class="synopsis">
                 <h2>Sinopse</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lacinia elit. Donec facilisis nec dolor nec mollis. Aliquam eget tempus tellus. Mauris nec arcu blandit, euismod diam id, pretium tortor. Ut ut urna at nisi dictum semper a at urna. In eleifend mattis est, non elementum elit ornare a. Proin sit amet laoreet mi.</p>
+                <p>Dentro da máfia brasileira no ano de 2019 é descoberto um policial infiltradoque quando interrogado revela seu comparsa. Agora a máfia fará de tudopara “silenciar” os dois antes que sequer percebam, afinal segundo as regrasda família traidores tem apenas o direito de morrer. </p>
             </div>
             <span class="back-bottom">
                 <a href="main.php"><img src="./img/seta.png" alt=""></a>
