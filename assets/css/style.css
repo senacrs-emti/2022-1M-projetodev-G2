@@ -299,9 +299,12 @@ body .video{
     height: 2.8em;
     width: 10em;
     color: white;
-    background-color: rgb(96, 96, 255);
+    background-color: rgb(216, 131, 19);
     border: none;
     border-radius: 2px;
+}
+#subBotao:hover{
+    background-color: rgb(255, 115, 0);
 }
 .options{
     width: 100%;
