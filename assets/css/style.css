@@ -330,6 +330,12 @@ body .video{
     margin-top: 10px;
     margin-left: 14%;
 }
+.top-vid h4{
+    color: black;
+    font-size: 32px;
+    margin-top: 10px;
+    margin-left: 14%;
+}
 .back-bottom{
     display: inline-flex;
     gap: 2%;
@@ -350,7 +356,7 @@ body .video{
 }
 .media{
     margin-top: 1%;
-    margin-left: 18.5%;
+    margin-left: 16%;
     margin-bottom: 5%;
 }
 .filmes{
@@ -380,4 +386,15 @@ body .video{
     font-weight: bold;
     padding-top: 9vh;
     margin-bottom: 3vh;
+}
+.synopsis{
+    float: right;
+    width: 35%;
+    height: 40%;
+    margin-top: -6.8%;
+    margin-right: 12%;
+    color: gray;
+}
+.synopsis h2{
+    color: black;
 }
