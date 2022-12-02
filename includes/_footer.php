@@ -2,30 +2,17 @@
     <div class="footer-list">
         <div class="list1">
             <ul>
-                <a href="https://www.senacrs.com.br/faleconosco"><li>Central de ajuda</li></a>
-                <a href="https://www.senacrs.com.br/cursos/livres"><li>Serviços</li></a>
-                <a href="https://senacrs.com.br/hotsite/pdf/codigo-etica-senacrs-OFICIAL.pdf"><li>Termos de uso</li></a>
+                <h1>Participantes</h1>
+                <a href="https://github.com/RaphaelBarcelos" target="_blank"><li>Raphael Barcelos</li></a>
+                <a href="https://github.com/Enzux" target="_blank"><li>Enzo Braga</li></a>
+                <a href="https://github.com/viniross" target="_blank"><li>Vinicius Ross</li></a>
+                <a href="https://github.com/MauroMFP" target="_blank"><li>Mauricio Ferreira</li></a>
             </ul>
         </div>
         <div class="list2">
             <ul>
-                <a href="https://fecomercio-rs.org.br/"><li>Avisos</li></a>
-                <a href="https://www.senacrs.com.br/unidade/84?gclid=EAIaIQobChMI66rv9ejW-wIVuEFIAB1SwQWlEAAYASAAEgKn8PD_BwE"><li>Site</li></a>
-                <a href="https://www.senacrs.com.br/hotsite/ensinomedio/index.php"><li>Quem somos nós</li></a>
-            </ul>
-        </div>
-        <div class="list3">
-            <ul>
-                <a href="https://www.senacrs.com.br/hotsite/pdf/pp.pdf"><li>Privacidade</li></a>
-                <a href="https://www.senacrs.com.br/faleconosco"><li>Entre em contato</li></a>
-                <a href="https://www.senacrs.com.br/institucional-premiacoes"><li>Premiações</li></a>
-            </ul>
-        </div>
-        <div class="list4">
-            <ul>
-                <a href="https://www.instagram.com/senacdistritocriativo/"><li>Instagram</li></a>
-                <a href="https://twitter.com/senacrs"><li>Twitter</li></a>
-                <a href="https://www.youtube.com/senacrsoficial"><li>Youtube</li></a>
+                <h1>Senacflix Github</h1>
+                <a href="https://github.com/senacrs-emti/2022-1M-projetodev-G2.git" target="_blank"><li>https://github.com/senacrs-emti/2022-1M-projetodev-G2.git</li></a>
             </ul>
         </div>
     </div>

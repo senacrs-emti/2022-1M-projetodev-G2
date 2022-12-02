@@ -100,23 +100,32 @@ footer{
     background-color: #f77d0c;
 }
 .footer-list{
-    padding-top: 4%;
     display: flex;
-    justify-content: center;
     align-items: center;
     flex-direction: row;
+    font-style: italic;
     gap: 2%;
 }
-.list1 ul a, .list2 ul a, .list3 ul a, .list4 ul a{
+.list1 ul a, .list2 ul a{
     text-decoration: none;
-    list-style: none;
 }
-.list1 ul a li, .list2 ul a li, .list3 ul a li, .list4 ul a li{
+.list1, .list2{
+    margin: 2%;
+}
+.list2{
+    margin-bottom: 6%;
+}
+.list1 h1, .list2 h1{
+    color: white;
+    font-size: 25px;
+}
+.list1 ul li, .list2 ul li{
     color: white;
     font-size: 18px;
-    margin-top: 5%;
+    margin-top: 3%;
+    list-style: none;
 }
-.list1 ul a:hover, .list2 ul a:hover, .list3 ul a:hover, .list4 ul a:hover{
+.list1 ul a:hover, .list2 ul a:hover{
     text-decoration: underline;
     color: white;
 }
