@@ -9,10 +9,6 @@ include_once './includes/_header.php';
                 <h4>A Origem do Homem Aranha</h1>
                 <h2>Ano - 2022</h2>
             </span>
-            <div class="synopsis">
-                <h2>Sinopse</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lacinia elit. Donec facilisis nec dolor nec mollis. Aliquam eget tempus tellus. Mauris nec arcu blandit, euismod diam id, pretium tortor. Ut ut urna at nisi dictum semper a at urna. In eleifend mattis est, non elementum elit ornare a. Proin sit amet laoreet mi.</p>
-            </div>
             <span class="back-bottom">
                 <a href="main.php"><img src="./img/seta.png" alt=""></a>
                 <a href="main.php"><h3>Voltar</h3></a>

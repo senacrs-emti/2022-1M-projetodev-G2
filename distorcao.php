@@ -11,7 +11,7 @@ include_once './includes/_header.php';
             </span>
             <div class="synopsis">
                 <h2>Sinopse</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lacinia elit. Donec facilisis nec dolor nec mollis. Aliquam eget tempus tellus. Mauris nec arcu blandit, euismod diam id, pretium tortor. Ut ut urna at nisi dictum semper a at urna. In eleifend mattis est, non elementum elit ornare a. Proin sit amet laoreet mi.</p>
+                <p>Sete amigos acordam de ressaca após uma festa, ninguém lembra de nada do queaconteceu na noite anterior. Ao levantar, eles encontram o corpo de Stuart, seu amigo quetambém estava na festa. Eles não podem chamar a polícia, pois estavam bebendo eusando drogas, e por serem menores de idade, iriam se encrencar. Então, eles resolvemfazer uma roda onde cada um iria contar o que se lembrava da noite, e após todas ashistórias serem contadas, eles tentariam descobrir quem havia matado Stuart.Ficha Técnica:</p>
             </div>
             <span class="back-bottom">
                 <a href="main.php"><img src="./img/seta.png" alt=""></a>
@@ -19,7 +19,7 @@ include_once './includes/_header.php';
             </span>
             <div class="media">
                 <video controls loop width="880px" height="500px">
-                    <source src="./img/banana.mp4" type="video/mp4">
+                    <source src="./img/distorcao.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
