@@ -7,7 +7,7 @@ include_once './includes/_header.php';
             <span class="top-vid">
                 <h3>Duração: 4:49 min</h3>
                 <h1>Uma Noite Sigma</h1>
-                <h2>Ano - 2022</h2>
+                <h2>Ano - 2022, Por Fernando de Moura Campanaro, Davi Cunda de Freitas, Douglas Oliveira da Luz, Arthur Malta Costa, Otávio de Souza Cardoso, João Gabriel da Silva Gotardo, Arthur da Silva Wiatrowski, Kaio Júnior Oliveski Novak.</h2>
             </span>
             <div class="synopsis">
                 <h2>Sinopse</h2>

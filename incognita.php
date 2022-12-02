@@ -7,7 +7,7 @@ include_once './includes/_header.php';
             <span class="top-vid">
                 <h3>Duração: 4:18 min</h3>
                 <h1>Incógnita</h1>
-                <h2>Ano - 2022</h2>
+                <h2>Ano - 2022, Por Paulo Estevan, Sheron Franco, Patrícia Marcante, Bianca Figueiredo Rodrigues, Maria Fernanda Borba.</h2>
             </span>
             <div class="synopsis">
                 <h2>Sinopse</h2>

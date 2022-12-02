@@ -6,12 +6,12 @@ include_once './includes/_header.php';
         <div class="mediaplay">
             <span class="top-vid">
                 <h3>Duração: 4:59 min</h3>
-                <h1>Distorção</h1>
-                <h2>Ano - 2022</h2>
+                <h1>Domus 582</h1>
+                <h2>Ano - 2022, Por Fabio Schenkel, Athos Henrique Alonso, Nicolas Diovani, Lucas Sol Oliveira, João Augusto Carbonera, Luiz Miguel Oliveira, Tayrel Preci.</h2>
             </span>
             <div class="synopsis">
                 <h2>Sinopse</h2>
-                <p>Sete amigos acordam de ressaca após uma festa, ninguém lembra de nada do queaconteceu na noite anterior. Ao levantar, eles encontram o corpo de Stuart, seu amigo quetambém estava na festa. Eles não podem chamar a polícia, pois estavam bebendo eusando drogas, e por serem menores de idade, iriam se encrencar. Então, eles resolvemfazer uma roda onde cada um iria contar o que se lembrava da noite, e após todas ashistórias serem contadas, eles tentariam descobrir quem havia matado Stuart.Ficha Técnica:</p>
+                <p>Em domus 582, dois jovens visitam a antiga residência de seu falecido avô,até que o inesperado acontece. A casa não é o que aparenta, ambos agoradevem   lidar   com   o   desconhecido   enquanto   permanecem   sempre   tãopróximos do mistério dentro da casa. Domus 582 é um curta metragemproduzido totalmente durante o ano letivo 2022, no colégio Senac DistritoCriativo por integrantes do segundo ano tarde.</p>
             </div>
             <span class="back-bottom">
                 <a href="main.php"><img src="./img/seta.png" alt=""></a>

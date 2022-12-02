@@ -7,7 +7,7 @@ include_once './includes/_header.php';
             <span class="top-vid">
                 <h3>Duração: 5:28 min</h3>
                 <h1>Duas Nações</h1>
-                <h2>Ano - 2022</h2>
+                <h2>Ano - 2022, Por Roberto Leitão, João Pedro, Pedro Leonardo, Luigi Lopes, Felipe Yung, Emanuel Julio, Leonardo Erig, Christian Augustus, Marcelo Correa, Luigi Lopes, Isabela Lacerda, Samuel Soares.</h2>
             </span>
             <div class="synopsis">
                 <h2>Sinopse</h2>

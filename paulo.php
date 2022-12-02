@@ -6,8 +6,8 @@ include_once './includes/_header.php';
         <div class="mediaplay">
             <span class="top-vid">
                 <h3>Duração: 6:31 min</h3>
-                <h1>Cora, é o Paulo</h1>
-                <h2>Ano - 2022</h2>
+                <h1>Corra, é o Paulo</h1>
+                <h2>Ano - 2022, Por Nathan Tavares, Luís Gabriel, Gabriel Sefrim, Guilherme Barbieri, Lorenzo Zardo, Luís Gabriel.</h2>
             </span>
             <div class="synopsis">
                 <h2>Sinopse</h2>

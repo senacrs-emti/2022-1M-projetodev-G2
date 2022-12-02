@@ -7,7 +7,7 @@ include_once './includes/_header.php';
             <span class="top-vid">
                 <h3>Duração: 10:41 min</h3>
                 <h4>Documentario do Elon Musk</h1>
-                <h2>Ano - 2022</h2>
+                <h2>Ano - 2022, Por Yasser, Gustavo Freitas, Gabriel Brandolt, Pablo, Arthur Mello, Johan.</h2>
             </span>
             <div class="synopsis">
                 <h2>Sinopse</h2>
