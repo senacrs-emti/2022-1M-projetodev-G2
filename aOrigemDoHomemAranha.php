@@ -7,7 +7,7 @@ include_once './includes/_header.php';
             <span class="top-vid">
                 <h3>Duração: 1:08 min</h3>
                 <h4>A Origem do Homem Aranha</h1>
-                <h2>Ano - 2022, Por Humberto Corrêa Gomes, Arthur Dondoni, Rodrigo Salvadori, Henrique Lopes, Patrícia Marcante,  Leticia Presotto, William De Campos, Brenda Sermiento, Marcelo Mertins, Inácio de Moraes, Riann Rodrigues, Aléxis Dellay Agra, Guilherme Henrique Gil, Inácio De Moraes Lindenmeyer, Arthur Magalhaes Dondoni, Riann Rodrigues Batista.</h2>
+                <h2>Ano - 2022, Por Humberto Corrêa Gomes, Arthur Dondoni, Rodrigo Salvadori, Henrique Lopes, Patrícia Marcante,  Leticia Presotto, William De Campos, Brenda Sermiento, Marcelo Mertins, Inácio de Moraes, Riann Rodrigues, Aléxis Dellay Agra, Guilherme Henrique Gil, Inácio De Moraes Lindenmeyer, Arthur Magalhaes Dondoni</h2>
             </span>
             <span class="back-bottom">
                 <a href="main.php"><img src="./img/seta.png" alt=""></a>
